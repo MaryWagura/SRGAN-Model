@@ -1,0 +1,3 @@
+[submodule "SRGAN-PyTorch"]
+	path = SRGAN-PyTorch
+	url = https://github.com/Lornatang/SRGAN-PyTorch.git
