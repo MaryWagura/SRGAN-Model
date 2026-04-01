@@ -1,0 +1,21 @@
+# =========================
+# SAR Dataset & Large Files
+# =========================
+
+# Ignore the raw downloaded zip archives
+data/*.zip
+
+# Ignore the raw downloaded tar archives
+srgan_outputs/*.tar
+
+# Ignore the extracted Sentinel-1 SAFE folders
+data/*.SAFE/
+
+# Ignore all raw TIFF files
+data/**/*.tiff
+data/**/*.tif
+
+# Ignore the folder containing all the generated HR/LR training images
+data/SAR_Dataset/
+
+
