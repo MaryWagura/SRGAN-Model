@@ -1,7 +1,6 @@
-# End-to-end super-resolution experimentation for **Sentinel-1 SAR (grayscale) imagery** using multiple model families:
+# SAR-SuperResolution 
 
-
-End-to-end super-resolution experimentation for **Sentinel-1 SAR (grayscale) imagery** using multiple model families:
+## End-to-end super-resolution experimentation for **Sentinel-1 SAR (grayscale) imagery** using multiple model families:
 
 - **SRGAN / SRResNet** (adversarial + perceptual training)
 - **ESRGAN** (RRDB generator + GAN fine-tuning)
